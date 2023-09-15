@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: white; 
+  margin-top: 1em;
+}
+
+h3 {
+  margin: 0;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: #317873;
+  height: 25px;
+  width: 25px;
+  color: white;
+}
+
+.button {
+  border-radius: 6px;
+  border-color: #317873;
+  background-color: #f7faf8;
+  font-weight: 600;
+  box-shadow: none;
+  height: 2em;
+  width: 4em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.screen {
+  height: 100vh;
+  background-color:#DAE6DE; 
+}
+
